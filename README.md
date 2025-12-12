@@ -1,6 +1,9 @@
 # SillyWings 2D (WebGL)
 
-https://github.com/danush2001/SillyWings/blob/fb74b4178a1ff485fcced013f39cab8bcaaa058d/ScreenRec/Screen%20Recording%202025-12-13%20010644.gif
+
+https://github.com/user-attachments/assets/5f2f1495-980c-4e09-8307-474110f7c7a8
+
+
 
 
 A lightweight **2D SillyWings** built in **Unity** and exported for **WebGL**.  
