@@ -1,5 +1,5 @@
 # SillyWings 2D (WebGL)
-https://github.com/danush2001/SillyWings/blob/b2f6225e29ea59024e4f5ca8b015b6d2b0915052/ScreenRec/Screen%20Recording%202025-12-13%20010644.gif
+
 
 
 
